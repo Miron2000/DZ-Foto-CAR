@@ -1,0 +1,190 @@
+.img-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 120px;
+  width: 100%; }
+  .img-row .red-car {
+    background-image: linear-gradient(to bottom, rgba(238, 239, 199, 0.1), #0a0a0c), url("../images/red car.png");
+    width: 51%;
+    height: 500px;
+    border-radius: 2px;
+    position: relative; }
+    .img-row .red-car p {
+      position: absolute;
+      text-transform: uppercase;
+      color: #84827e;
+      font-size: 1rem;
+      font-family: 'Roboto', sans-serif;
+      bottom: 116px;
+      left: 43px; }
+    .img-row .red-car h2 {
+      text-transform: uppercase;
+      color: white;
+      font-family: 'Public Sans', sans-serif;
+      font-size: 1.7rem;
+      letter-spacing: 1px;
+      position: absolute;
+      bottom: 31px;
+      left: 43px; }
+  .img-row .girl {
+    background-color: white;
+    margin-left: 17px;
+    border-radius: 2px;
+    width: 25%; }
+    .img-row .girl .girl-img {
+      width: 337px;
+      height: 220px;
+      border-radius: 2px; }
+    .img-row .girl p {
+      text-transform: uppercase;
+      color: #84827e;
+      font-size: 1rem;
+      font-family: 'Roboto', sans-serif;
+      margin-left: 14px;
+      margin-top: 27px; }
+    .img-row .girl h2 {
+      text-transform: uppercase;
+      color: black;
+      font-family: 'Public Sans', sans-serif;
+      font-size: 1.3rem;
+      letter-spacing: 1px;
+      margin-left: 14px;
+      margin-top: 27px; }
+    .img-row .girl .men-foto {
+      width: 43px;
+      height: 44px;
+      margin-left: 14px;
+      margin-top: 60px;
+      border: 2px solid white; }
+      .img-row .girl .men-foto:hover {
+        border: 2px solid #19171f;
+        border-radius: 25px; }
+
+.img-row2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 17px;
+  width: 100%; }
+  .img-row2 .girlsfoto {
+    background-color: white;
+    border-radius: 2px;
+    height: 500px;
+    width: 25%; }
+    .img-row2 .girlsfoto .img {
+      width: 337px;
+      height: 220px;
+      border-radius: 2px; }
+    .img-row2 .girlsfoto p {
+      text-transform: uppercase;
+      color: #84827e;
+      font-size: 1rem;
+      font-family: 'Roboto', sans-serif;
+      margin-left: 14px;
+      margin-top: 27px; }
+    .img-row2 .girlsfoto h2 {
+      text-transform: uppercase;
+      color: black;
+      font-family: 'Public Sans', sans-serif;
+      font-size: 1.3rem;
+      letter-spacing: 1px;
+      margin-left: 14px;
+      margin-top: 27px; }
+    .img-row2 .girlsfoto .men-foto {
+      width: 43px;
+      height: 44px;
+      margin-left: 14px;
+      margin-top: 60px;
+      border: 2px solid white; }
+      .img-row2 .girlsfoto .men-foto:hover {
+        border: 2px solid #19171f;
+        border-radius: 25px; }
+  .img-row2 .shoes {
+    background-color: white;
+    border-radius: 2px;
+    margin-left: 14px;
+    width: 25%; }
+    .img-row2 .shoes .img {
+      width: 337px;
+      height: 220px;
+      border-radius: 2px; }
+    .img-row2 .shoes h2 {
+      text-transform: uppercase;
+      color: black;
+      font-family: 'Public Sans', sans-serif;
+      font-size: 1.3rem;
+      letter-spacing: 1px;
+      margin-left: 14px;
+      margin-top: 74px; }
+    .img-row2 .shoes .men-foto {
+      width: 43px;
+      height: 44px;
+      margin-left: 14px;
+      margin-top: 60px;
+      border: 2px solid white; }
+      .img-row2 .shoes .men-foto:hover {
+        border: 2px solid #19171f;
+        border-radius: 25px; }
+  .img-row2 .white-car {
+    background-color: white;
+    border-radius: 2px;
+    margin-left: 14px;
+    width: 25%; }
+    .img-row2 .white-car .img {
+      width: 337px;
+      height: 220px;
+      border-radius: 2px; }
+    .img-row2 .white-car p {
+      text-transform: uppercase;
+      color: #84827e;
+      font-size: 1rem;
+      font-family: 'Roboto', sans-serif;
+      margin-left: 14px;
+      margin-top: 27px; }
+    .img-row2 .white-car h2 {
+      text-transform: uppercase;
+      color: black;
+      font-family: 'Public Sans', sans-serif;
+      font-size: 1.3rem;
+      letter-spacing: 1px;
+      margin-left: 14px;
+      margin-top: 27px; }
+    .img-row2 .white-car .men-foto {
+      width: 43px;
+      height: 44px;
+      margin-left: 14px;
+      margin-top: 60px;
+      border: 2px solid white; }
+      .img-row2 .white-car .men-foto:hover {
+        border: 2px solid #19171f;
+        border-radius: 25px; }
+
+.load-flex {
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+  justify-content: center; }
+  .load-flex .fload-img {
+    width: 20px;
+    height: 20px;
+    margin-right: 11px; }
+  .load-flex p {
+    color: #84827e;
+    font-size: 0.8rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-top: 2px; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background-color: #e2e7ec;
+  cursor: pointer; }
+
+.flex-img {
+  display: flex;
+  flex-direction: column; }

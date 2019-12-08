@@ -1,0 +1,116 @@
+.img-row2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 17px;
+    width: 100%;
+    .girlsfoto {
+        background-color: white;
+        border-radius: 2px;
+        height: 500px;
+        width: 25%;
+        .img {
+            width: 337px;
+            height: 220px;
+            border-radius: 2px;
+        }
+        p {
+            text-transform: uppercase;
+            color: #84827e;
+            font-size: 1rem;
+            font-family: 'Roboto', sans-serif;
+            margin-left: 14px;
+            margin-top: 27px;
+        }
+        h2 {
+            text-transform: uppercase;
+            color: black;
+            font-family: 'Public Sans', sans-serif;
+            font-size: 1.3rem;
+            letter-spacing: 1px;
+            margin-left: 14px;
+            margin-top: 27px;
+        }
+        .men-foto {
+            width: 43px;
+            height: 44px;
+            margin-left: 14px;
+            margin-top: 60px;
+            border: 2px solid white;
+            &:hover {
+                border: 2px solid #19171f;
+                border-radius: 25px;
+            }
+        }
+    }
+    .shoes {
+        background-color: white;
+        border-radius: 2px;
+        margin-left: 14px;
+        width: 25%;
+        .img {
+            width: 337px;
+            height: 220px;
+            border-radius: 2px;
+        }
+        h2 {
+            text-transform: uppercase;
+            color: black;
+            font-family: 'Public Sans', sans-serif;
+            font-size: 1.3rem;
+            letter-spacing: 1px;
+            margin-left: 14px;
+            margin-top: 74px;
+        }
+        .men-foto {
+            width: 43px;
+            height: 44px;
+            margin-left: 14px;
+            margin-top: 60px;
+            border: 2px solid white;
+            &:hover {
+                border: 2px solid #19171f;
+                border-radius: 25px;
+            }
+        }
+    }
+    .white-car {
+        background-color: white;
+        border-radius: 2px;
+        margin-left: 14px;
+        width: 25%;
+        .img {
+            width: 337px;
+            height: 220px;
+            border-radius: 2px;
+        }
+        p {
+            text-transform: uppercase;
+            color: #84827e;
+            font-size: 1rem;
+            font-family: 'Roboto', sans-serif;
+            margin-left: 14px;
+            margin-top: 27px;
+        }
+        h2 {
+            text-transform: uppercase;
+            color: black;
+            font-family: 'Public Sans', sans-serif;
+            font-size: 1.3rem;
+            letter-spacing: 1px;
+            margin-left: 14px;
+            margin-top: 27px;
+        }
+        .men-foto {
+            width: 43px;
+            height: 44px;
+            margin-left: 14px;
+            margin-top: 60px;
+            border: 2px solid white;
+            &:hover {
+                border: 2px solid #19171f;
+                border-radius: 25px;
+            }
+        }
+    }
+}
